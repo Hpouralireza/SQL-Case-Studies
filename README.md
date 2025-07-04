@@ -1,4 +1,4 @@
-# SQL-Case-Studies
+# SQL_Case_Studies
 
 A collection of real-world SQL case studies for practicing data analysis, business logic, and performance-oriented querying.
 
